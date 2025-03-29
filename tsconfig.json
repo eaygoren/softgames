@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "target": "es2017",
+    "moduleResolution": "Node",
+    "esModuleInterop": true,
+    "outDir": "project/dist",
+    "rootDir": "project/src",
+    "types": ["pixi.js"]
+  },
+  "include": [
+    "project/src/**/*"
+  ],
+  "exclude": ["node_modules", "project/dist"]
+}
