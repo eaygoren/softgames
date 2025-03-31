@@ -3,7 +3,6 @@ export const ASSETS = [
     { alias: "cards",           src: "assets/textures/cards.json" },
     { alias: "background",      src: "assets/environment/background.jpg" },
     { alias: "bubble",          src: "assets/environment/bubble.png" },
-    { alias: "flame",           src: "assets/environment/flame.png" },
     { alias: "logo",            src: "assets/environment/logo.png" },
 ];
 
